@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "yamlick",
+        "lastName": "Abdullah",
+        "age": "23",
+        "Occupation": "Student",
+        "BPCONDITION": null,
+        "email": "yamlickabdullah10@gmail.com",
+        "password": "1234asc"
+    },
+    {
+        "firstName": "plabonn",
+        "lastName": "Ahmed",
+        "age": "24",
+        "Occupation": "Student",
+        "BPCONDITION": "BPH",
+        "email": "yamlickabdullah9@gmail.com",
+        "password": "weedd"
+    },
+    {
+        "firstName": "tanvir",
+        "lastName": "rahat",
+        "age": "28",
+        "Occupation": "worker",
+        "BPCONDITION": null,
+        "email": "yamlickabdullah9@gmail.com",
+        "password": "wesst"
+    }
+]
